@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./xenophontisqvaef00fricuoft_0005.png"; bbox 0 0 1820 3340; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 520 1161 1014 1210">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 520 1161 1014 1210">
+     <span class='ocr_line' id='line_1_1' title="bbox 520 1161 1014 1210; baseline -0.002 -1"><span class='ocrx_word' id='word_1_1' title='bbox 520 1161 715 1210; x_wconf 85' lang='lat' dir='ltr'>OTTO</span> <span class='ocrx_word' id='word_1_2' title='bbox 753 1161 1014 1210; x_wconf 83' lang='lat' dir='ltr'>FRICK:</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 30 1369 1512 1540">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 30 1369 1512 1540">
+     <span class='ocr_line' id='line_1_2' title="bbox 30 1369 1512 1435; baseline 0.001 -2"><span class='ocrx_word' id='word_1_3' title='bbox 30 1369 537 1434; x_wconf 80' lang='lat' dir='ltr'>XENOPHONTIS</span> <span class='ocrx_word' id='word_1_4' title='bbox 582 1370 781 1435; x_wconf 79' lang='lat' dir='ltr'><strong>QVAE</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 824 1370 1114 1434; x_wconf 83' lang='lat' dir='ltr'>FERTUR</span> <span class='ocrx_word' id='word_1_6' title='bbox 1152 1371 1512 1435; x_wconf 81' lang='lat' dir='ltr'><strong>APOLOGIA</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 31 1475 1510 1540; baseline 0.001 -1"><span class='ocrx_word' id='word_1_7' title='bbox 31 1475 370 1540; x_wconf 78' lang='lat' dir='ltr'><strong>SOORATIS</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 417 1476 579 1540; x_wconf 88' lang='lat' dir='ltr'><strong>NUM</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 624 1476 956 1540; x_wconf 80' lang='lat' dir='ltr'><strong>GENUINA</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 999 1476 1354 1540; x_wconf 87' lang='lat' dir='ltr'><strong>PUTANDA</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1400 1476 1510 1540; x_wconf 78' lang='lat' dir='ltr'><strong>SIT</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
